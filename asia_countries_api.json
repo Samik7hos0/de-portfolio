@@ -1,0 +1,302 @@
+[
+    {
+        "name": "India",
+        "population": 1417492000,
+        "area": 3287263.0,
+        "capital": "New Delhi"
+    },
+    {
+        "name": "China",
+        "population": 1408280000,
+        "area": 9706961.0,
+        "capital": "Beijing"
+    },
+    {
+        "name": "Indonesia",
+        "population": 284438782,
+        "area": 1904569.0,
+        "capital": "Jakarta"
+    },
+    {
+        "name": "Pakistan",
+        "population": 241499431,
+        "area": 796095.0,
+        "capital": "Islamabad"
+    },
+    {
+        "name": "Bangladesh",
+        "population": 169828911,
+        "area": 147570.0,
+        "capital": "Dhaka"
+    },
+    {
+        "name": "Japan",
+        "population": 123210000,
+        "area": 377930.0,
+        "capital": "Tokyo"
+    },
+    {
+        "name": "Philippines",
+        "population": 114123600,
+        "area": 342353.0,
+        "capital": "Manila"
+    },
+    {
+        "name": "Vietnam",
+        "population": 101343800,
+        "area": 331212.0,
+        "capital": "Hanoi"
+    },
+    {
+        "name": "Iran",
+        "population": 85961000,
+        "area": 1648195.0,
+        "capital": "Tehran"
+    },
+    {
+        "name": "Turkey",
+        "population": 85664944,
+        "area": 783562.0,
+        "capital": "Ankara"
+    },
+    {
+        "name": "Thailand",
+        "population": 65859640,
+        "area": 513120.0,
+        "capital": "Bangkok"
+    },
+    {
+        "name": "Myanmar",
+        "population": 51316756,
+        "area": 676578.0,
+        "capital": "Naypyidaw"
+    },
+    {
+        "name": "South Korea",
+        "population": 51159889,
+        "area": 100210.0,
+        "capital": "Seoul"
+    },
+    {
+        "name": "Iraq",
+        "population": 46118793,
+        "area": 438317.0,
+        "capital": "Baghdad"
+    },
+    {
+        "name": "Afghanistan",
+        "population": 43844000,
+        "area": 652230.0,
+        "capital": "Kabul"
+    },
+    {
+        "name": "Uzbekistan",
+        "population": 37859698,
+        "area": 447400.0,
+        "capital": "Tashkent"
+    },
+    {
+        "name": "Saudi Arabia",
+        "population": 35300280,
+        "area": 2149690.0,
+        "capital": "Riyadh"
+    },
+    {
+        "name": "Malaysia",
+        "population": 34231700,
+        "area": 330803.0,
+        "capital": "Kuala Lumpur"
+    },
+    {
+        "name": "Yemen",
+        "population": 32684503,
+        "area": 527968.0,
+        "capital": "Sana'a"
+    },
+    {
+        "name": "Nepal",
+        "population": 29911840,
+        "area": 147181.0,
+        "capital": "Kathmandu"
+    },
+    {
+        "name": "North Korea",
+        "population": 25950000,
+        "area": 120538.0,
+        "capital": "Pyongyang"
+    },
+    {
+        "name": "Syria",
+        "population": 25620000,
+        "area": 185180.0,
+        "capital": "Damascus"
+    },
+    {
+        "name": "Taiwan",
+        "population": 23317031,
+        "area": 36197.0,
+        "capital": "Taipei"
+    },
+    {
+        "name": "Sri Lanka",
+        "population": 21763170,
+        "area": 65610.0,
+        "capital": "Sri Jayawardenepura Kotte"
+    },
+    {
+        "name": "Kazakhstan",
+        "population": 20426568,
+        "area": 2724900.0,
+        "capital": "Astana"
+    },
+    {
+        "name": "Cambodia",
+        "population": 17577760,
+        "area": 181035.0,
+        "capital": "Phnom Penh"
+    },
+    {
+        "name": "Jordan",
+        "population": 11734000,
+        "area": 89342.0,
+        "capital": "Amman"
+    },
+    {
+        "name": "United Arab Emirates",
+        "population": 11294243,
+        "area": 83600.0,
+        "capital": "Abu Dhabi"
+    },
+    {
+        "name": "Tajikistan",
+        "population": 10499000,
+        "area": 143100.0,
+        "capital": "Dushanbe"
+    },
+    {
+        "name": "Azerbaijan",
+        "population": 10241722,
+        "area": 86600.0,
+        "capital": "Baku"
+    },
+    {
+        "name": "Israel",
+        "population": 10134800,
+        "area": 21937.0,
+        "capital": "Jerusalem"
+    },
+    {
+        "name": "Laos",
+        "population": 7647000,
+        "area": 236800.0,
+        "capital": "Vientiane"
+    },
+    {
+        "name": "Hong Kong",
+        "population": 7527500,
+        "area": 1104.0,
+        "capital": "City of Victoria"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "population": 7281800,
+        "area": 199951.0,
+        "capital": "Bishkek"
+    },
+    {
+        "name": "Turkmenistan",
+        "population": 7057841,
+        "area": 488100.0,
+        "capital": "Ashgabat"
+    },
+    {
+        "name": "Singapore",
+        "population": 6110200,
+        "area": 710.0,
+        "capital": "Singapore"
+    },
+    {
+        "name": "Lebanon",
+        "population": 5490000,
+        "area": 10452.0,
+        "capital": "Beirut"
+    },
+    {
+        "name": "Palestine",
+        "population": 5483450,
+        "area": 6220.0,
+        "capital": "Ramallah"
+    },
+    {
+        "name": "Oman",
+        "population": 5343630,
+        "area": 309500.0,
+        "capital": "Muscat"
+    },
+    {
+        "name": "Kuwait",
+        "population": 4881254,
+        "area": 17818.0,
+        "capital": "Kuwait City"
+    },
+    {
+        "name": "Georgia",
+        "population": 4000921,
+        "area": 69700.0,
+        "capital": "Tbilisi"
+    },
+    {
+        "name": "Mongolia",
+        "population": 3544835,
+        "area": 1564110.0,
+        "capital": "Ulan Bator"
+    },
+    {
+        "name": "Qatar",
+        "population": 3173024,
+        "area": 11586.0,
+        "capital": "Doha"
+    },
+    {
+        "name": "Armenia",
+        "population": 3076200,
+        "area": 29743.0,
+        "capital": "Yerevan"
+    },
+    {
+        "name": "Bahrain",
+        "population": 1594654,
+        "area": 765.0,
+        "capital": "Manama"
+    },
+    {
+        "name": "Timor-Leste",
+        "population": 1391221,
+        "area": 14874.0,
+        "capital": "Dili"
+    },
+    {
+        "name": "Bhutan",
+        "population": 784043,
+        "area": 38394.0,
+        "capital": "Thimphu"
+    },
+    {
+        "name": "Macau",
+        "population": 685900,
+        "area": 30.0,
+        "capital": "N/A"
+    },
+    {
+        "name": "Maldives",
+        "population": 515132,
+        "area": 300.0,
+        "capital": "Mal\u00e9"
+    },
+    {
+        "name": "Brunei",
+        "population": 455500,
+        "area": 5765.0,
+        "capital": "Bandar Seri Begawan"
+    }
+]

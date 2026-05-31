@@ -1,0 +1,12 @@
+{
+    "dag_id": "etl_pipeline",
+    "schedule": "@daily",
+    "source": "postgresql",
+    "destination": "snowflake",
+    "tables": [
+        "orders",
+        "customers",
+        "products"
+    ],
+    "record_count": 5000
+}

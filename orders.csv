@@ -1,0 +1,6 @@
+order_id,customer,amount,status
+1001,Alice,250.0,completed
+1002,Bob,175.5,pending
+1003,Charlie,320.0,completed
+1004,Diana,89.99,failed
+1005,Eve,450.0,completed

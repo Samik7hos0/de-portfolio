@@ -1,0 +1,402 @@
+[
+    {
+        "name":"Qatar",
+        "population":3173024,
+        "area":11586.0,
+        "capital":"Doha",
+        "subregion":"Western Asia",
+        "population_millions":3.17
+    },
+    {
+        "name":"Myanmar",
+        "population":51316756,
+        "area":676578.0,
+        "capital":"Naypyidaw",
+        "subregion":"South-Eastern Asia",
+        "population_millions":51.32
+    },
+    {
+        "name":"Macau",
+        "population":685900,
+        "area":30.0,
+        "capital":"N\/A",
+        "subregion":"Eastern Asia",
+        "population_millions":0.69
+    },
+    {
+        "name":"Jordan",
+        "population":11734000,
+        "area":89342.0,
+        "capital":"Amman",
+        "subregion":"Western Asia",
+        "population_millions":11.73
+    },
+    {
+        "name":"Laos",
+        "population":7647000,
+        "area":236800.0,
+        "capital":"Vientiane",
+        "subregion":"South-Eastern Asia",
+        "population_millions":7.65
+    },
+    {
+        "name":"Bhutan",
+        "population":784043,
+        "area":38394.0,
+        "capital":"Thimphu",
+        "subregion":"Southern Asia",
+        "population_millions":0.78
+    },
+    {
+        "name":"Palestine",
+        "population":5483450,
+        "area":6220.0,
+        "capital":"Ramallah",
+        "subregion":"Western Asia",
+        "population_millions":5.48
+    },
+    {
+        "name":"Hong Kong",
+        "population":7527500,
+        "area":1104.0,
+        "capital":"City of Victoria",
+        "subregion":"Eastern Asia",
+        "population_millions":7.53
+    },
+    {
+        "name":"Uzbekistan",
+        "population":37859698,
+        "area":447400.0,
+        "capital":"Tashkent",
+        "subregion":"Central Asia",
+        "population_millions":37.86
+    },
+    {
+        "name":"Indonesia",
+        "population":284438782,
+        "area":1904569.0,
+        "capital":"Jakarta",
+        "subregion":"South-Eastern Asia",
+        "population_millions":284.44
+    },
+    {
+        "name":"Timor-Leste",
+        "population":1391221,
+        "area":14874.0,
+        "capital":"Dili",
+        "subregion":"South-Eastern Asia",
+        "population_millions":1.39
+    },
+    {
+        "name":"China",
+        "population":1408280000,
+        "area":9706961.0,
+        "capital":"Beijing",
+        "subregion":"Eastern Asia",
+        "population_millions":1408.28
+    },
+    {
+        "name":"Bangladesh",
+        "population":169828911,
+        "area":147570.0,
+        "capital":"Dhaka",
+        "subregion":"Southern Asia",
+        "population_millions":169.83
+    },
+    {
+        "name":"Kyrgyzstan",
+        "population":7281800,
+        "area":199951.0,
+        "capital":"Bishkek",
+        "subregion":"Central Asia",
+        "population_millions":7.28
+    },
+    {
+        "name":"Iran",
+        "population":85961000,
+        "area":1648195.0,
+        "capital":"Tehran",
+        "subregion":"Southern Asia",
+        "population_millions":85.96
+    },
+    {
+        "name":"Bahrain",
+        "population":1594654,
+        "area":765.0,
+        "capital":"Manama",
+        "subregion":"Western Asia",
+        "population_millions":1.59
+    },
+    {
+        "name":"Turkey",
+        "population":85664944,
+        "area":783562.0,
+        "capital":"Ankara",
+        "subregion":"Western Asia",
+        "population_millions":85.66
+    },
+    {
+        "name":"South Korea",
+        "population":51159889,
+        "area":100210.0,
+        "capital":"Seoul",
+        "subregion":"Eastern Asia",
+        "population_millions":51.16
+    },
+    {
+        "name":"Lebanon",
+        "population":5490000,
+        "area":10452.0,
+        "capital":"Beirut",
+        "subregion":"Western Asia",
+        "population_millions":5.49
+    },
+    {
+        "name":"Georgia",
+        "population":4000921,
+        "area":69700.0,
+        "capital":"Tbilisi",
+        "subregion":"Western Asia",
+        "population_millions":4.0
+    },
+    {
+        "name":"Tajikistan",
+        "population":10499000,
+        "area":143100.0,
+        "capital":"Dushanbe",
+        "subregion":"Central Asia",
+        "population_millions":10.5
+    },
+    {
+        "name":"Thailand",
+        "population":65859640,
+        "area":513120.0,
+        "capital":"Bangkok",
+        "subregion":"South-Eastern Asia",
+        "population_millions":65.86
+    },
+    {
+        "name":"Malaysia",
+        "population":34231700,
+        "area":330803.0,
+        "capital":"Kuala Lumpur",
+        "subregion":"South-Eastern Asia",
+        "population_millions":34.23
+    },
+    {
+        "name":"North Korea",
+        "population":25950000,
+        "area":120538.0,
+        "capital":"Pyongyang",
+        "subregion":"Eastern Asia",
+        "population_millions":25.95
+    },
+    {
+        "name":"Saudi Arabia",
+        "population":35300280,
+        "area":2149690.0,
+        "capital":"Riyadh",
+        "subregion":"Western Asia",
+        "population_millions":35.3
+    },
+    {
+        "name":"Mongolia",
+        "population":3544835,
+        "area":1564110.0,
+        "capital":"Ulan Bator",
+        "subregion":"Eastern Asia",
+        "population_millions":3.54
+    },
+    {
+        "name":"Brunei",
+        "population":455500,
+        "area":5765.0,
+        "capital":"Bandar Seri Begawan",
+        "subregion":"South-Eastern Asia",
+        "population_millions":0.46
+    },
+    {
+        "name":"Armenia",
+        "population":3076200,
+        "area":29743.0,
+        "capital":"Yerevan",
+        "subregion":"Western Asia",
+        "population_millions":3.08
+    },
+    {
+        "name":"Iraq",
+        "population":46118793,
+        "area":438317.0,
+        "capital":"Baghdad",
+        "subregion":"Western Asia",
+        "population_millions":46.12
+    },
+    {
+        "name":"Yemen",
+        "population":32684503,
+        "area":527968.0,
+        "capital":"Sana'a",
+        "subregion":"Western Asia",
+        "population_millions":32.68
+    },
+    {
+        "name":"Japan",
+        "population":123210000,
+        "area":377930.0,
+        "capital":"Tokyo",
+        "subregion":"Eastern Asia",
+        "population_millions":123.21
+    },
+    {
+        "name":"Pakistan",
+        "population":241499431,
+        "area":796095.0,
+        "capital":"Islamabad",
+        "subregion":"Southern Asia",
+        "population_millions":241.5
+    },
+    {
+        "name":"Israel",
+        "population":10134800,
+        "area":21937.0,
+        "capital":"Jerusalem",
+        "subregion":"Western Asia",
+        "population_millions":10.13
+    },
+    {
+        "name":"Afghanistan",
+        "population":43844000,
+        "area":652230.0,
+        "capital":"Kabul",
+        "subregion":"Southern Asia",
+        "population_millions":43.84
+    },
+    {
+        "name":"Cambodia",
+        "population":17577760,
+        "area":181035.0,
+        "capital":"Phnom Penh",
+        "subregion":"South-Eastern Asia",
+        "population_millions":17.58
+    },
+    {
+        "name":"Sri Lanka",
+        "population":21763170,
+        "area":65610.0,
+        "capital":"Sri Jayawardenepura Kotte",
+        "subregion":"Southern Asia",
+        "population_millions":21.76
+    },
+    {
+        "name":"Turkmenistan",
+        "population":7057841,
+        "area":488100.0,
+        "capital":"Ashgabat",
+        "subregion":"Central Asia",
+        "population_millions":7.06
+    },
+    {
+        "name":"Oman",
+        "population":5343630,
+        "area":309500.0,
+        "capital":"Muscat",
+        "subregion":"Western Asia",
+        "population_millions":5.34
+    },
+    {
+        "name":"Azerbaijan",
+        "population":10241722,
+        "area":86600.0,
+        "capital":"Baku",
+        "subregion":"Western Asia",
+        "population_millions":10.24
+    },
+    {
+        "name":"Maldives",
+        "population":515132,
+        "area":300.0,
+        "capital":"Mal\u00e9",
+        "subregion":"Southern Asia",
+        "population_millions":0.52
+    },
+    {
+        "name":"Vietnam",
+        "population":101343800,
+        "area":331212.0,
+        "capital":"Hanoi",
+        "subregion":"South-Eastern Asia",
+        "population_millions":101.34
+    },
+    {
+        "name":"Singapore",
+        "population":6110200,
+        "area":710.0,
+        "capital":"Singapore",
+        "subregion":"South-Eastern Asia",
+        "population_millions":6.11
+    },
+    {
+        "name":"India",
+        "population":1417492000,
+        "area":3287263.0,
+        "capital":"New Delhi",
+        "subregion":"Southern Asia",
+        "population_millions":1417.49
+    },
+    {
+        "name":"Kazakhstan",
+        "population":20426568,
+        "area":2724900.0,
+        "capital":"Astana",
+        "subregion":"Central Asia",
+        "population_millions":20.43
+    },
+    {
+        "name":"Philippines",
+        "population":114123600,
+        "area":342353.0,
+        "capital":"Manila",
+        "subregion":"South-Eastern Asia",
+        "population_millions":114.12
+    },
+    {
+        "name":"Syria",
+        "population":25620000,
+        "area":185180.0,
+        "capital":"Damascus",
+        "subregion":"Western Asia",
+        "population_millions":25.62
+    },
+    {
+        "name":"Nepal",
+        "population":29911840,
+        "area":147181.0,
+        "capital":"Kathmandu",
+        "subregion":"Southern Asia",
+        "population_millions":29.91
+    },
+    {
+        "name":"Kuwait",
+        "population":4881254,
+        "area":17818.0,
+        "capital":"Kuwait City",
+        "subregion":"Western Asia",
+        "population_millions":4.88
+    },
+    {
+        "name":"United Arab Emirates",
+        "population":11294243,
+        "area":83600.0,
+        "capital":"Abu Dhabi",
+        "subregion":"Western Asia",
+        "population_millions":11.29
+    },
+    {
+        "name":"Taiwan",
+        "population":23317031,
+        "area":36197.0,
+        "capital":"Taipei",
+        "subregion":"Eastern Asia",
+        "population_millions":23.32
+    }
+]
